@@ -230,55 +230,21 @@ def build_rss(events: list[dict[str, Any]], feed_config: dict[str, str]) -> byte
 
 
 async def resolve_court_ids(page: Any, court_names: list[str]) -> dict[str, str]:
-    """Resolve IDs through the site's autocomplete instead of assuming a select element."""
+    """Resolve court IDs from the same public endpoint used by the search form."""
+    endpoint = urljoin(BASE_URL, "/api/episerver/v3/beramming/GetCourts/no")
+    response = await page.request.get(endpoint)
+    if not response.ok:
+        raise RuntimeError(f"Kunne ikke hente domstollisten (HTTP {response.status})")
 
-    async def first_visible(*locators: Any) -> Any:
-        for locator in locators:
-            for index in range(await locator.count()):
-                candidate = locator.nth(index)
-                if await candidate.is_visible():
-                    return candidate
-        raise RuntimeError("Fant ikke det synlige domstolfeltet")
-
-    resolved: dict[str, str] = {}
-    for court_name in court_names:
-        await page.goto(BASE_URL, wait_until="domcontentloaded")
-        control = await first_visible(
-            page.get_by_role("combobox", name=re.compile(r"^Domstol$", re.I)),
-            page.get_by_label(re.compile(r"^Domstol$", re.I)),
-        )
-        tag_name = await control.evaluate("element => element.tagName.toLowerCase()")
-
-        if tag_name == "select":
-            await control.select_option(label=court_name)
-        else:
-            await control.click()
-            if await control.is_editable():
-                await control.fill(court_name)
-            else:
-                await page.keyboard.type(court_name)
-
-            exact_name = re.compile(rf"^{re.escape(court_name)}$", re.I)
-            option = page.get_by_role("option", name=exact_name).first
-            try:
-                await option.wait_for(state="visible", timeout=10_000)
-            except Exception:
-                option = page.get_by_text(exact_name).last
-                await option.wait_for(state="visible", timeout=10_000)
-            await option.click()
-
-        search_button = page.get_by_role("button", name=re.compile(r"^Søk$", re.I)).first
-        await search_button.click()
-        await page.wait_for_function(
-            "() => new URL(window.location.href).searchParams.has('domstolid')",
-            timeout=30_000,
-        )
-        values = parse_qs(urlparse(page.url).query).get("domstolid", [])
-        if not values or not values[0]:
-            raise RuntimeError(f"Fant ikke domstol-ID for {court_name}")
-        resolved[court_name] = values[0]
-
-    return resolved
+    available = {
+        compact(item.get("Text", "")).casefold(): compact(item.get("Value", ""))
+        for item in await response.json()
+        if item.get("Text") and item.get("Value")
+    }
+    missing = [name for name in court_names if name.casefold() not in available]
+    if missing:
+        raise RuntimeError(f"Fant ikke domstolvalg: {', '.join(missing)}")
+    return {name: available[name.casefold()] for name in court_names}
 
 
 async def extract_rows(page: Any) -> list[dict[str, str]]:
