@@ -1,0 +1,49 @@
+name: Overvåk beramminger
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 5-19/2 * * 1-5"
+      timezone: "Europe/Oslo"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: court-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer avhengigheter
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Hent og sammenlign beramminger
+        run: |
+          python -m unittest discover -s tests -v
+          python monitor.py
+
+      - name: Lagre ny tilstand og RSS
+        run: |
+          if git diff --quiet -- state/cases.json public/feed.xml; then
+            echo "Ingen endringer"
+            exit 0
+          fi
+          git config user.name "court-monitor[bot]"
+          git config user.email "court-monitor[bot]@users.noreply.github.com"
+          git add state/cases.json public/feed.xml
+          git commit -m "Oppdater beramminger"
+          git push
