@@ -2,7 +2,8 @@
   "courts": [
     "Trøndelag tingrett",
     "Frostating lagmannsrett",
-    "Trøndelag jordskifterett"
+    "Trøndelag jordskifterett",
+    "Norges Høyesterett"
   ],
   "date_window": {
     "days_back": 14,
@@ -17,6 +18,7 @@
       "Rennebu kommune",
       "Rindal kommune",
       "Trøndelag fylkeskommune",
+      "Norges Høyesterett",
       "Orkland",
       "Skaun",
       "Rennebu",
