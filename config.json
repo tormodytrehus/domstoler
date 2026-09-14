@@ -1,0 +1,41 @@
+{
+  "courts": [
+    "Trøndelag tingrett",
+    "Frostating lagmannsrett",
+    "Trøndelag jordskifterett"
+  ],
+  "date_window": {
+    "days_back": 14,
+    "days_forward": 730
+  },
+  "page_size": 100,
+  "matching": {
+    "terms": [
+      "Orkland kommune",
+      "Skaun kommune",
+      "Heim kommune",
+      "Rennebu kommune",
+      "Rindal kommune",
+      "Trøndelag fylkeskommune",
+      "Orkland",
+      "Skaun",
+      "Rennebu",
+      "Rindal",
+      "Orkanger",
+      "Meldal",
+      "Lensvik",
+      "Berkåk",
+      "Kyrksæterøra"
+    ]
+  },
+  "monitor": {
+    "silent_first_run": true,
+    "missing_runs_before_alert": 2,
+    "max_feed_items": 200
+  },
+  "feed": {
+    "title": "Lokale beramminger – Avisa Sør-Trøndelag",
+    "description": "Nye og endrede beramminger som treffer redaksjonens lokale søkeord.",
+    "link": "https://www.domstol.no/no/nar-gar-rettssaken/"
+  }
+}
