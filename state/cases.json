@@ -1171,7 +1171,926 @@
       "interesting": false,
       "missing_count": 0,
       "summary": null
+    },
+    "Norges Høyesterett:AAAA2512221048284061012BCTVQP_EJBSak": {
+      "fingerprint": "b4d9f41cfe8ecc5aeaf8a16d8ab7d3dc4ded8622d62d64995361343a9d809bf4",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2512221048284061012BCTVQP_EJBSak",
+        "case_number": "25-208483SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Reduksjon av alderspensjon \"under opphold\" på institusjon. Om reduksjon skal skje selv om den trygdede har permisjon fra institusjonen. Folketrygdloven § 19-21.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2512221048284061012BCTVQP_EJBSak",
+        "hearings": [
+          "02.09.2026 - 03.09.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2512120746376558212DISSTO_EJBSak": {
+      "fingerprint": "5106d5d9322d68e8c730b239e6d6cfef57c8627cd01812c06011173bab1c83fb",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2512120746376558212DISSTO_EJBSak",
+        "case_number": "25-202049SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Arbeidstid for prosjektleder. Spørsmål om prosjektleder har særlig uavhengig stilling. Arbeidsrett",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2512120746376558212DISSTO_EJBSak",
+        "hearings": [
+          "02.09.2026 - 03.09.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2604291012165191819GSFODA_EJBSak": {
+      "fingerprint": "0df98530e2fa55ec87afccf04075e077e7ed0dca1d4e8b729a5a5a0fa462bb72",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2604291012165191819GSFODA_EJBSak",
+        "case_number": "26-073365STR-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Voldtekt av barn under 14 år. Spørsmål om en kvalifisert seksuell handling etter straffeloven § 299 bokstav c omfattes av straffeskjerpingsregelen i straffeloven § 301. Straffutmåling.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2604291012165191819GSFODA_EJBSak",
+        "hearings": [
+          "08.09.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2601021121145050811PPNASH_EJBSak": {
+      "fingerprint": "19e5c47af78363b4a749f0230158cf8ccf846c330b3be093cf5af89a10f12492",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2601021121145050811PPNASH_EJBSak",
+        "case_number": "26-000414SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Tvangsinnkreving av forfalt studielån. I hvilken utstrekning en samboers inntekter kan tas i betraktning ved fastsettelse av utleggstrekk. Dekningsloven § 2-7.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2601021121145050811PPNASH_EJBSak",
+        "hearings": [
+          "22.09.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2602061500391408231XDODJU_EJBSak": {
+      "fingerprint": "5fd3026f9aaa6dd9eff1b5ca16c6bbd83bf1fb9b145cd01a989b4de9c42a4a65",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2602061500391408231XDODJU_EJBSak",
+        "case_number": "26-022408SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Erstatning etter trafikkulykke. Om skadelidtes advokatutgifter før stevning kan kreves dekket uavhengig av om det påvises adekvat årsakssammenheng mellom skadehendelsen og personskaden. Erstatningsrett.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2602061500391408231XDODJU_EJBSak",
+        "hearings": [
+          "24.09.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2606051109394471813ADUPBV_EJBSak": {
+      "fingerprint": "e27d7b8dd1514b716720acc6124489636304af4caeb0fb2394de51734fbb142c",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2606051109394471813ADUPBV_EJBSak",
+        "case_number": "26-094985STR-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Underslag av narkotiske preparater. Straffutmåling for sykepleiers underslag av narkotiske preparater til eget bruk. Strafferett",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2606051109394471813ADUPBV_EJBSak",
+        "hearings": [
+          "24.09.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2512050838272918211AHQMAD_EJBSak": {
+      "fingerprint": "b1835cbbc4ac3de31c4e635ed2a3bb98c0238a38db35e1d3ab427fdc1c5d18f2",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2512050838272918211AHQMAD_EJBSak",
+        "case_number": "25-197571SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Tomtefeste. Om fester og bortfester fritt kan avtale en høyere festeavgift i et løpende festeforhold enn det som følger av tomtefestelova § 15.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2512050838272918211AHQMAD_EJBSak",
+        "hearings": [
+          "08.10.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2606111331290043183BAFOVL_EJBSak": {
+      "fingerprint": "1d0105171049c96d3e5c9fee5f9a564ef650dd71780914dca0604cad40c2c7a1",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2606111331290043183BAFOVL_EJBSak",
+        "case_number": "26-098693STR-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Omgjøring av ungdomsstraff etter vilkårsbrudd. Straffeloven § 52 c.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2606111331290043183BAFOVL_EJBSak",
+        "hearings": [
+          "08.10.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2601201304374159214ABBCFX_EJBSak": {
+      "fingerprint": "f362549218bc6d2164bd1b45fd2ff3c3f8bb42a5d45f421de1eedbcdea3c730c",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2601201304374159214ABBCFX_EJBSak",
+        "case_number": "26-010976SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Oppreisning for brudd på EMK. Tolkningen av den relative foreldelsesfristen ved krav om oppreisning mot staten for krenkelser av EMK. Foreldelsesloven § 9 nr. 1 og EMK artikkel 13.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2601201304374159214ABBCFX_EJBSak",
+        "hearings": [
+          "13.10.2026 - 14.10.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2606231052469292927RFPYQG_EJBSak": {
+      "fingerprint": "4a214871b4aa2980d584488aa46519c63c1bb20eceedc4e43ac6747d3f43ce47",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2606231052469292927RFPYQG_EJBSak",
+        "case_number": "26-105462STR-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Straffutmåling for voldtekt til samleie av barn under 14 år. Straffeloven § 299 og § 300.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2606231052469292927RFPYQG_EJBSak",
+        "hearings": [
+          "13.10.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2603121035123062925FGEMJD_EJBSak": {
+      "fingerprint": "1f2297f67a1a81c8a940f8db8b0822ca19a8f119fa97b4698478b0ca64c67c3f",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2603121035123062925FGEMJD_EJBSak",
+        "case_number": "26-043548SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Regress etter vannskade. Spørsmål om ansvarsbegrensning i kommunens sanitærreglement. Vannressursloven § 47",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2603121035123062925FGEMJD_EJBSak",
+        "hearings": [
+          "15.10.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2601121023364211014ODBMHG_EJBSak": {
+      "fingerprint": "d689c848e9f98bcf964c6e1c8c8358f14012bed8b526f045d2138b468131e568",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2601121023364211014ODBMHG_EJBSak",
+        "case_number": "26-005409SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Avtale om finansiell kraftforvaltning. Spørsmål om bruk av god tro-standarden ved avtaletolkning. Kontraktsrett.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2601121023364211014ODBMHG_EJBSak",
+        "hearings": [
+          "21.10.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2602120820087370830ZSOHSV_EJBSak": {
+      "fingerprint": "45613426792288f502acfd3db4658f72d0a0eca633eee315382ceec6b4a29dd0",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2602120820087370830ZSOHSV_EJBSak",
+        "case_number": "26-025388SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Vedtak om pålegg om riving av platting og levegg i strandsonen i Færder kommune. Om forståelsen av «tettbygd strøk» i strand- og fjellplanleggingsloven 1971 §§ 2 og 3. Plan- og bygningsrett.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2602120820087370830ZSOHSV_EJBSak",
+        "hearings": [
+          "21.10.2026 - 22.10.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2607011304234413189KSXGOZ_EJBSak": {
+      "fingerprint": "87526971b411c76b0ffe978d720707d78ea12fd57dad226e2ddbd07643118e10",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2607011304234413189KSXGOZ_EJBSak",
+        "case_number": "26-110769STR-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Uriktig forklaring i straffesak. Spørsmål om tiltaltes uriktige forklaring er straffri etter straffeloven § 221 andre ledd andre punktum.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2607011304234413189KSXGOZ_EJBSak",
+        "hearings": [
+          "05.11.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2607071906015770811SPVYUC_EJBSak": {
+      "fingerprint": "fe3ac1461041f02e71b82618f955c6f023abb560075df222af3cac50534ee2c3",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2607071906015770811SPVYUC_EJBSak",
+        "case_number": "26-114220STR-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Bruk av farlig redskap mot politiet. Om bil brukt til å skremme vekk politiet, skal anses som et «annet redskap som er egnet til å volde fare for betydelig skade på kropp» og straffutmåling. Straffeloven § 155 b",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2607071906015770811SPVYUC_EJBSak",
+        "hearings": [
+          "05.11.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2602171221512481025CVABDP_EJBSak": {
+      "fingerprint": "efa36d28ebc73af4dff109e4aeeed548c6d9e66c951a6d282f32dccd48490875",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2602171221512481025CVABDP_EJBSak",
+        "case_number": "26-028617SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Fastsetting av eiendomsskattegrunnlag. Spørsmål om deler av kostnadene med å bygge en ny tunnel for overføring av vann kan utgiftsføres direkte som «tenkt vedlikehold» etter skatteloven § 18-5 (3), eller om kostnadene må aktiveres.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2602171221512481025CVABDP_EJBSak",
+        "hearings": [
+          "10.11.2026 - 11.11.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2605181202490943083YVMSSK_EJBSak": {
+      "fingerprint": "3ce53b1fe387aebb2461dec58165dffb502bfb17c316da9da54dfe648068246e",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2605181202490943083YVMSSK_EJBSak",
+        "case_number": "26-083986SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Gyldigheten av vedtak om utelukkelse fra retten til anerkjennelse som flyktning. Om alvorlig forbrytelse begått i hjemlandet var «ikke-politisk». Utlendingsloven § 31 første ledd bokstav b.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2605181202490943083YVMSSK_EJBSak",
+        "hearings": [
+          "10.11.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2604171217432871015VCHSED_EJBSak": {
+      "fingerprint": "859c6ba4b387d288fb7faea670db68d608958fcef7a9468b855af2142db98a40",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2604171217432871015VCHSED_EJBSak",
+        "case_number": "26-064246SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Gyldigheten av Skatteklagenemndas vedtak. Om forlikskostnader er fradragsberettiget etter skatteloven § 6-1, jf. § 6-24. Tilknytningsvilkåret. Tilordning av kostnader i konsernforhold.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2604171217432871015VCHSED_EJBSak",
+        "hearings": [
+          "18.11.2026 - 19.11.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2604301257422361015HGRLSD_EJBSak": {
+      "fingerprint": "7800c64a03bf1cf02ddfa040811f36031959fec32c52d6ec16c2e8d6451e512c",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2604301257422361015HGRLSD_EJBSak",
+        "case_number": "26-074498SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Leveringsbud tilknyttet en digital plattform krever fast ansettelse. Om leveringsbud i Wolt er arbeidstakere eller oppdragstakere. Arbeidsrett.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2604301257422361015HGRLSD_EJBSak",
+        "hearings": [
+          "18.11.2026 - 19.11.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2604200847244061816RRBXFL_EJBSak": {
+      "fingerprint": "6626bfd2ba2a4b32f1500a5c374e90a9b9a99c52d0eac38014a1f24449d67304",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2604200847244061816RRBXFL_EJBSak",
+        "case_number": "26-064942SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Rettslig interesse i søksmål av generell karakter. Om Stiftelsen Tinius har adgang til å reise søksmål om Etterretningstjenesten er uberettiget til å innhente elektronisk kommunikasjon i medhold av etterretningstjenesteloven § 6-9 og § 6-10 om midt- og endepunktinnhenting.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2604200847244061816RRBXFL_EJBSak",
+        "hearings": [
+          "24.11.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2603310831286822824DXJKVY_EJBSak": {
+      "fingerprint": "14714114301635612cb4df24ed777a5830a9d114df8384e8bbf7bfe8ae6ba001",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2603310831286822824DXJKVY_EJBSak",
+        "case_number": "26-055094SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Avvikling av ekstraferie for arbeidstaker over 60 år. Om arbeidstaker har rett til å kreve ekstraferien avviklet sammenhengende over dager som ikke er virkedager. Ferieloven § 5 nr. 2.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2603310831286822824DXJKVY_EJBSak",
+        "hearings": [
+          "24.11.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2603231143236552927CRPQNF_EJBSak": {
+      "fingerprint": "ca3c0e76dc2cdbac5a6fbdb6ea5a84280015ebd4ac88bc00ec3a347b0bc921b5",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2603231143236552927CRPQNF_EJBSak",
+        "case_number": "26-050069SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Vederlag for avståelse av skoletomt i Bjørvika. Om kommunens rett til overføring av en eiendom etter en utbyggingsavtale er foreldet. Foreldelsesloven § 1 og § 30",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2603231143236552927CRPQNF_EJBSak",
+        "hearings": [
+          "26.11.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2603040836102888236BMJWRL_EJBSak": {
+      "fingerprint": "e66a282d8d6ce0008df408a945f41395ff43d2e19e47af362e4145ee6e52d537",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2603040836102888236BMJWRL_EJBSak",
+        "case_number": "26-038136SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Oppreisning for brudd på EMK. Tolkningen av den absolutte foreldelsesfristen ved krav om oppreisning for krenkelser av EMK. Foreldelsesloven § 9 nr. 2 og EMK artikkel 13.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2603040836102888236BMJWRL_EJBSak",
+        "hearings": [
+          "01.12.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2603250932148893087GPUJFV_EJBSak": {
+      "fingerprint": "e8831dee02c6b2eeeb98fe91b1e9d344486af6ca21ec9faca20d26dbcd3db903",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2603250932148893087GPUJFV_EJBSak",
+        "case_number": "26-051561SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Autorisert betalingstransaksjon til svindlere. Om banken er ansvarlig for kundens tap som følge av brudd på omsorgsplikten i finansavtaleloven § 3-49, jf. § 3-1.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2603250932148893087GPUJFV_EJBSak",
+        "hearings": [
+          "01.12.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2601271344330671019YUSDLB_EJBSak": {
+      "fingerprint": "06f69999a542532416db54404a035d8a57801c51e96d86a4c23f166dd6c9b63c",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2601271344330671019YUSDLB_EJBSak",
+        "case_number": "26-015331SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Oppreisning for brudd på EMK. Spørsmål om det er grunnlag for å rette krav om oppreisning mot en kommune for krenkelser av EMK som fant sted før menneskerettsloven trådte i kraft. Menneskerettsloven og EMK artikkel 13",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2601271344330671019YUSDLB_EJBSak",
+        "hearings": [
+          "02.12.2026"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2605270934062791810DCRMEH_EJBSak": {
+      "fingerprint": "4f4bd1bf1e62fa8fab68bd95f2a41a2c49dbcf02cb9bcb19038f4d0fdb3812b7",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2605270934062791810DCRMEH_EJBSak",
+        "case_number": "26-088899SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Vedtak om opphevelse av boligstiftelse. Hvorvidt stiftelsen er opprettet av en kommune når den senere er slått sammen med en privat stiftelse og om opphevelse er i strid med Grunnloven og EMK. Stiftelsesloven § 55 a, Grunnloven §§ 97, 105 og 116, EMK P1-1.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2605270934062791810DCRMEH_EJBSak",
+        "hearings": [
+          "05.01.2027 - 06.01.2027"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
+    },
+    "Norges Høyesterett:AAAA2606090831079591012ZYVRSN_EJBSak": {
+      "fingerprint": "ec6a8b57316011ede0ff9d7690414ff3db5cb2e9581e6b69e57595c1ee869678",
+      "interesting": true,
+      "missing_count": 0,
+      "summary": {
+        "case_id": "Norges Høyesterett:AAAA2606090831079591012ZYVRSN_EJBSak",
+        "case_number": "26-096509SIV-HRET",
+        "court": "Norges Høyesterett",
+        "subject": "Rettslig interesse i sak om krav til drosjevirksomhet. Om et søksmål om at kravene som følger av yrkestransportloven § 9 er i strid med drosjeselskapets etableringsfrihet etter EØS-avtalen oppfyller søksmålsvilkårene. Tvisteloven § 1-3.",
+        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2606090831079591012ZYVRSN_EJBSak",
+        "hearings": [
+          "12.01.2027 - 13.01.2027"
+        ],
+        "matched_terms": [
+          "Norges Høyesterett"
+        ]
+      }
     }
   },
-  "events": []
+  "events": [
+    {
+      "id": "7493498deca1a3b881bc",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2512221048284061012BCTVQP_EJBSak",
+      "case_number": "25-208483SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Reduksjon av alderspensjon \"under opphold\" på institusjon. Om reduksjon skal skje selv om den trygdede har permisjon fra institusjonen. Folketrygdloven § 19-21.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2512221048284061012BCTVQP_EJBSak",
+      "hearings": [
+        "02.09.2026 - 03.09.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "25c355a80518da038351",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2512120746376558212DISSTO_EJBSak",
+      "case_number": "25-202049SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Arbeidstid for prosjektleder. Spørsmål om prosjektleder har særlig uavhengig stilling. Arbeidsrett",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2512120746376558212DISSTO_EJBSak",
+      "hearings": [
+        "02.09.2026 - 03.09.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "e370eae8ab7c00e6ac42",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2604291012165191819GSFODA_EJBSak",
+      "case_number": "26-073365STR-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Voldtekt av barn under 14 år. Spørsmål om en kvalifisert seksuell handling etter straffeloven § 299 bokstav c omfattes av straffeskjerpingsregelen i straffeloven § 301. Straffutmåling.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2604291012165191819GSFODA_EJBSak",
+      "hearings": [
+        "08.09.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "4c0eb20a3619856cd282",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2601021121145050811PPNASH_EJBSak",
+      "case_number": "26-000414SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Tvangsinnkreving av forfalt studielån. I hvilken utstrekning en samboers inntekter kan tas i betraktning ved fastsettelse av utleggstrekk. Dekningsloven § 2-7.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2601021121145050811PPNASH_EJBSak",
+      "hearings": [
+        "22.09.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "a2d54575e6745375c489",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2602061500391408231XDODJU_EJBSak",
+      "case_number": "26-022408SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Erstatning etter trafikkulykke. Om skadelidtes advokatutgifter før stevning kan kreves dekket uavhengig av om det påvises adekvat årsakssammenheng mellom skadehendelsen og personskaden. Erstatningsrett.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2602061500391408231XDODJU_EJBSak",
+      "hearings": [
+        "24.09.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "64ae02e53cf239de7110",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2606051109394471813ADUPBV_EJBSak",
+      "case_number": "26-094985STR-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Underslag av narkotiske preparater. Straffutmåling for sykepleiers underslag av narkotiske preparater til eget bruk. Strafferett",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2606051109394471813ADUPBV_EJBSak",
+      "hearings": [
+        "24.09.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "f843214a213d734c1ce3",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2512050838272918211AHQMAD_EJBSak",
+      "case_number": "25-197571SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Tomtefeste. Om fester og bortfester fritt kan avtale en høyere festeavgift i et løpende festeforhold enn det som følger av tomtefestelova § 15.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2512050838272918211AHQMAD_EJBSak",
+      "hearings": [
+        "08.10.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "7b9ad9296ffd065684f8",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2606111331290043183BAFOVL_EJBSak",
+      "case_number": "26-098693STR-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Omgjøring av ungdomsstraff etter vilkårsbrudd. Straffeloven § 52 c.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2606111331290043183BAFOVL_EJBSak",
+      "hearings": [
+        "08.10.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "906f53fead956b951a8e",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2601201304374159214ABBCFX_EJBSak",
+      "case_number": "26-010976SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Oppreisning for brudd på EMK. Tolkningen av den relative foreldelsesfristen ved krav om oppreisning mot staten for krenkelser av EMK. Foreldelsesloven § 9 nr. 1 og EMK artikkel 13.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2601201304374159214ABBCFX_EJBSak",
+      "hearings": [
+        "13.10.2026 - 14.10.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "e4308320984397e855cd",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2606231052469292927RFPYQG_EJBSak",
+      "case_number": "26-105462STR-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Straffutmåling for voldtekt til samleie av barn under 14 år. Straffeloven § 299 og § 300.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2606231052469292927RFPYQG_EJBSak",
+      "hearings": [
+        "13.10.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "f596a5b3c703106844ae",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2603121035123062925FGEMJD_EJBSak",
+      "case_number": "26-043548SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Regress etter vannskade. Spørsmål om ansvarsbegrensning i kommunens sanitærreglement. Vannressursloven § 47",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2603121035123062925FGEMJD_EJBSak",
+      "hearings": [
+        "15.10.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "bc5fba33415022497a8b",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2601121023364211014ODBMHG_EJBSak",
+      "case_number": "26-005409SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Avtale om finansiell kraftforvaltning. Spørsmål om bruk av god tro-standarden ved avtaletolkning. Kontraktsrett.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2601121023364211014ODBMHG_EJBSak",
+      "hearings": [
+        "21.10.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "2d4140441e9276de65bb",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2602120820087370830ZSOHSV_EJBSak",
+      "case_number": "26-025388SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Vedtak om pålegg om riving av platting og levegg i strandsonen i Færder kommune. Om forståelsen av «tettbygd strøk» i strand- og fjellplanleggingsloven 1971 §§ 2 og 3. Plan- og bygningsrett.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2602120820087370830ZSOHSV_EJBSak",
+      "hearings": [
+        "21.10.2026 - 22.10.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "23f97ab0164855df2586",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2607011304234413189KSXGOZ_EJBSak",
+      "case_number": "26-110769STR-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Uriktig forklaring i straffesak. Spørsmål om tiltaltes uriktige forklaring er straffri etter straffeloven § 221 andre ledd andre punktum.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2607011304234413189KSXGOZ_EJBSak",
+      "hearings": [
+        "05.11.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "43888b7867e5fb6497ba",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2607071906015770811SPVYUC_EJBSak",
+      "case_number": "26-114220STR-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Bruk av farlig redskap mot politiet. Om bil brukt til å skremme vekk politiet, skal anses som et «annet redskap som er egnet til å volde fare for betydelig skade på kropp» og straffutmåling. Straffeloven § 155 b",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2607071906015770811SPVYUC_EJBSak",
+      "hearings": [
+        "05.11.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "eeecd1fc6ade32b6f96d",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2602171221512481025CVABDP_EJBSak",
+      "case_number": "26-028617SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Fastsetting av eiendomsskattegrunnlag. Spørsmål om deler av kostnadene med å bygge en ny tunnel for overføring av vann kan utgiftsføres direkte som «tenkt vedlikehold» etter skatteloven § 18-5 (3), eller om kostnadene må aktiveres.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2602171221512481025CVABDP_EJBSak",
+      "hearings": [
+        "10.11.2026 - 11.11.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "75393d84b46f8dc7b75a",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2605181202490943083YVMSSK_EJBSak",
+      "case_number": "26-083986SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Gyldigheten av vedtak om utelukkelse fra retten til anerkjennelse som flyktning. Om alvorlig forbrytelse begått i hjemlandet var «ikke-politisk». Utlendingsloven § 31 første ledd bokstav b.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2605181202490943083YVMSSK_EJBSak",
+      "hearings": [
+        "10.11.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "384ba270ac48eb718263",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2604171217432871015VCHSED_EJBSak",
+      "case_number": "26-064246SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Gyldigheten av Skatteklagenemndas vedtak. Om forlikskostnader er fradragsberettiget etter skatteloven § 6-1, jf. § 6-24. Tilknytningsvilkåret. Tilordning av kostnader i konsernforhold.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2604171217432871015VCHSED_EJBSak",
+      "hearings": [
+        "18.11.2026 - 19.11.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "1cc623734484a6334c35",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2604301257422361015HGRLSD_EJBSak",
+      "case_number": "26-074498SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Leveringsbud tilknyttet en digital plattform krever fast ansettelse. Om leveringsbud i Wolt er arbeidstakere eller oppdragstakere. Arbeidsrett.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2604301257422361015HGRLSD_EJBSak",
+      "hearings": [
+        "18.11.2026 - 19.11.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "a45c75e406854ab43637",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2604200847244061816RRBXFL_EJBSak",
+      "case_number": "26-064942SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Rettslig interesse i søksmål av generell karakter. Om Stiftelsen Tinius har adgang til å reise søksmål om Etterretningstjenesten er uberettiget til å innhente elektronisk kommunikasjon i medhold av etterretningstjenesteloven § 6-9 og § 6-10 om midt- og endepunktinnhenting.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2604200847244061816RRBXFL_EJBSak",
+      "hearings": [
+        "24.11.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "a6aab7695026ba8639ff",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2603310831286822824DXJKVY_EJBSak",
+      "case_number": "26-055094SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Avvikling av ekstraferie for arbeidstaker over 60 år. Om arbeidstaker har rett til å kreve ekstraferien avviklet sammenhengende over dager som ikke er virkedager. Ferieloven § 5 nr. 2.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2603310831286822824DXJKVY_EJBSak",
+      "hearings": [
+        "24.11.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "320f0b7d1c16d2e50441",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2603231143236552927CRPQNF_EJBSak",
+      "case_number": "26-050069SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Vederlag for avståelse av skoletomt i Bjørvika. Om kommunens rett til overføring av en eiendom etter en utbyggingsavtale er foreldet. Foreldelsesloven § 1 og § 30",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2603231143236552927CRPQNF_EJBSak",
+      "hearings": [
+        "26.11.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "e087c6cfb6f8d2a6a33f",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2603040836102888236BMJWRL_EJBSak",
+      "case_number": "26-038136SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Oppreisning for brudd på EMK. Tolkningen av den absolutte foreldelsesfristen ved krav om oppreisning for krenkelser av EMK. Foreldelsesloven § 9 nr. 2 og EMK artikkel 13.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2603040836102888236BMJWRL_EJBSak",
+      "hearings": [
+        "01.12.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "b9ec3a79cc72ad283d28",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2603250932148893087GPUJFV_EJBSak",
+      "case_number": "26-051561SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Autorisert betalingstransaksjon til svindlere. Om banken er ansvarlig for kundens tap som følge av brudd på omsorgsplikten i finansavtaleloven § 3-49, jf. § 3-1.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2603250932148893087GPUJFV_EJBSak",
+      "hearings": [
+        "01.12.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "6611f7d1b62ff84ee39c",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2601271344330671019YUSDLB_EJBSak",
+      "case_number": "26-015331SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Oppreisning for brudd på EMK. Spørsmål om det er grunnlag for å rette krav om oppreisning mot en kommune for krenkelser av EMK som fant sted før menneskerettsloven trådte i kraft. Menneskerettsloven og EMK artikkel 13",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2601271344330671019YUSDLB_EJBSak",
+      "hearings": [
+        "02.12.2026"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "54ed5a0ba5b9e2f82fc0",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2605270934062791810DCRMEH_EJBSak",
+      "case_number": "26-088899SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Vedtak om opphevelse av boligstiftelse. Hvorvidt stiftelsen er opprettet av en kommune når den senere er slått sammen med en privat stiftelse og om opphevelse er i strid med Grunnloven og EMK. Stiftelsesloven § 55 a, Grunnloven §§ 97, 105 og 116, EMK P1-1.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2605270934062791810DCRMEH_EJBSak",
+      "hearings": [
+        "05.01.2027 - 06.01.2027"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    },
+    {
+      "id": "84cc403f0abfd3c51af9",
+      "kind": "new",
+      "observed_at": "2026-09-14T16:09:37.942598+00:00",
+      "case_id": "Norges Høyesterett:AAAA2606090831079591012ZYVRSN_EJBSak",
+      "case_number": "26-096509SIV-HRET",
+      "court": "Norges Høyesterett",
+      "subject": "Rettslig interesse i sak om krav til drosjevirksomhet. Om et søksmål om at kravene som følger av yrkestransportloven § 9 er i strid med drosjeselskapets etableringsfrihet etter EØS-avtalen oppfyller søksmålsvilkårene. Tvisteloven § 1-3.",
+      "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2606090831079591012ZYVRSN_EJBSak",
+      "hearings": [
+        "12.01.2027 - 13.01.2027"
+      ],
+      "matched_terms": [
+        "Norges Høyesterett"
+      ]
+    }
+  ]
 }
