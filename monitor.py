@@ -111,7 +111,14 @@ def merge_rows(rows: Iterable[dict[str, str]]) -> dict[str, CourtCase]:
 
 def matching_terms(case: CourtCase, terms: Iterable[str]) -> list[str]:
     haystack = case.searchable_text.casefold()
-    return [term for term in terms if term.casefold() in haystack]
+    matches = []
+
+    for term in terms:
+        pattern = rf"(?<!\w){re.escape(term.casefold())}(?!\w)"
+        if re.search(pattern, haystack):
+            matches.append(term)
+
+    return matches
 
 
 def _future_hearing(case_summary: dict[str, Any], today: date) -> bool:
