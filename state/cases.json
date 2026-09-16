@@ -592,21 +592,9 @@
     },
     "Trøndelag tingrett:AAAA2604290739558390818CCQPWW_EJBSak": {
       "fingerprint": "1b6cf24979c3ef63eef061f75dc8fe8e11ecaf5d40a4b6c4877d2e9466434949",
-      "interesting": true,
+      "interesting": false,
       "missing_count": 0,
-      "summary": {
-        "case_id": "Trøndelag tingrett:AAAA2604290739558390818CCQPWW_EJBSak",
-        "case_number": "26-073139TVI-TTRO/TTRD",
-        "court": "Trøndelag tingrett",
-        "subject": "Oppsigelse av arbeidsforhold",
-        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2604290739558390818CCQPWW_EJBSak",
-        "hearings": [
-          "08.09.2026 15.09.2026 - 17.09.2026"
-        ],
-        "matched_terms": [
-          "Heim kommune"
-        ]
-      }
+      "summary": null
     },
     "Trøndelag tingrett:AAAA2605260904287303188CWARPS_EJBSak": {
       "fingerprint": "0f7494bb955b5a36827c398faa0e3810550d24c524c54c75bdbf65e14213ab73",
@@ -766,21 +754,9 @@
     },
     "Frostating lagmannsrett:AAAA2609080918173201819OTLRBA_EJBSak": {
       "fingerprint": "b727998ee6b2f93ba783a4f2202be8bfff2710a11277169081a788ae2756f575",
-      "interesting": true,
+      "interesting": false,
       "missing_count": 0,
-      "summary": {
-        "case_id": "Frostating lagmannsrett:AAAA2609080918173201819OTLRBA_EJBSak",
-        "case_number": "26-145128ASD-FROS",
-        "court": "Frostating lagmannsrett",
-        "subject": "Gyldighet av avskjed og krav om erstatning",
-        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2609080918173201819OTLRBA_EJBSak",
-        "hearings": [
-          "22.09.2026"
-        ],
-        "matched_terms": [
-          "Heim kommune"
-        ]
-      }
+      "summary": null
     },
     "Frostating lagmannsrett:AAAA2606091418018480813IMDNAF_EJBSak": {
       "fingerprint": "a26c237bd6b4aface9c7d4c42c178c98e0b6b5b96b0e92bbb29bd24a3d60e636",
@@ -1024,21 +1000,9 @@
     },
     "Frostating lagmannsrett:AAAA2604080733480259216DLXRXW_EJBSak": {
       "fingerprint": "a52dc02de59f1af558095d77ca1a39046c6e54a659b397e6907605f2c7c6841e",
-      "interesting": true,
+      "interesting": false,
       "missing_count": 0,
-      "summary": {
-        "case_id": "Frostating lagmannsrett:AAAA2604080733480259216DLXRXW_EJBSak",
-        "case_number": "26-057807ASD-FROS",
-        "court": "Frostating lagmannsrett",
-        "subject": "Krav om erstatning for tapt utbyggingsinteresse",
-        "url": "https://www.domstol.no/no/nar-gar-rettssaken/?saksid=AAAA2604080733480259216DLXRXW_EJBSak",
-        "hearings": [
-          "25.01.2027 - 04.02.2027"
-        ],
-        "matched_terms": [
-          "Heim kommune"
-        ]
-      }
+      "summary": null
     },
     "Frostating lagmannsrett:AAAA2607071458480229218UNPEJM_EJBSak": {
       "fingerprint": "29c5a25f284d15360f23be3397a04d8d209850b67094e65bcb36985d8ae0497e",
